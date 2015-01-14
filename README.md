@@ -21,6 +21,8 @@ Dependencies
 
 [PyMongo](https://github.com/mongodb/mongo-python-driver)
 
+[MongoDB](http://www.mongodb.org/downloads)
+
 License
 -----------------
 MIT License
