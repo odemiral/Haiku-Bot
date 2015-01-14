@@ -1,0 +1,12 @@
+*.pyc
+goose.egg-info/
+build/
+dist/
+.DS_Store*
+._.DS_Store*
+env/
+*~
+.idea
+._*
+venv/
+goose_extractor.egg-info/
